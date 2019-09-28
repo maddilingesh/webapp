@@ -21,7 +21,7 @@ th, td {
   </tr>
   <tr>
     <td>maddi</td>
-    <td>lingesh</td>
+    <td>lingesh varma</td>
     <td>24</td>
   </tr>
   <tr>
